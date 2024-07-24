@@ -1,7 +1,7 @@
 # Java
 # Overview
 
-Basic Paint Program where you can draw figures (rectangles and ovals and dots that can form a line and you can change the color of all of these.
+Basic Paint Program where you can draw figures (rectangles and ovals and dots) that can form a line and you can change the color of all of these.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
